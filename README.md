@@ -1,6 +1,15 @@
 # Microsoft Azure AI Fundamentals 演習
 
-このリポジトリには、Microsoftコース[AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) と [MS Learnのセルフペースモジュール](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)のハンズオンラボ演習が含まれています。ラボは、学習教材に合わせて設計されており、説明されているテクノロジーを使って練習することができます。
+このリポジトリには、Microsoftコース[AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) と [MS Learnのセルフペースモジュール](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)のハンズオンラボ演習の日本語版が含まれています。ラボは、学習教材に合わせて設計されており、説明されているテクノロジーを使って練習することができます。
+
+このリポジトリにはMicrosoftの公式なラボ教材をforkしたもの(main)と、日本語ローカライズしたリビジョン (ja-jp) が含まれています。
+日本語版の作成については @mokamochi が個人利用の目的で行なったものです。翻訳等に関する不具合についてはMicrosoftに直接問合せしないようにお願いします。
+
+翻訳元の README については、こちらを参照ください。
+https://github.com/MicrosoftLearning/mslearn-ai900
+
+
+以下は、本家のREADMEからの抜粋です。
 
 ## これは何のためのものですか？
 
@@ -19,15 +28,3 @@
 ## 学習者ハンドブックの変更については？
 
 - 私たちは、四半期ごとに学習者ハンドブックを見直し、必要に応じて通常のMOCリリースチャンネルを通じて更新します。
-
-## どのように貢献すればいいのでしょうか？
-
-- MCTはGitHubリポジトリのコードやコンテンツにプルリクエストを提出することができ、マイクロソフトとコース作成者は必要に応じてコンテンツやラボコードの変更をトリアージして盛り込みます。
-
-- もしお気づきの点がありましたら [report it](https://docs.microsoft.com/learn/support/troubleshooting#report-feedback) からご連絡ください。
-
-## 補足
-
-### クラスルーム教材
-
-MCTやパートナーがこれらの資料にアクセスし、学生に別途提供することを強く推奨します。 進行中の授業の一環として、学生に直接GitHubへのアクセスを促すと、コースの一部として別のUIにアクセスする必要があり、学生にとって混乱を招くことになります。なぜラボの手順が別々に送られてくるのかを学生に説明することで、常に変化するクラウドベースのインターフェースやプラットフォームの性質を強調することができます。マイクロソフトラーニングでは、GitHub上のファイルへのアクセスやGitHubサイトのナビゲーションのサポートは、このコースを教えているMCTのみに限定されています。
