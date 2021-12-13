@@ -3,14 +3,14 @@ lab:
     title: 'Use automated machine learning in Azure Machine Learning'
 ---
 
-## Instructions
-In this lab we will look at how to use automated machine learning in Azure Machine Learning.
+## インストラクション
 
-1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/use-automated-machine-learning/ and complete the following units in the browser: 
+このラボでは、Azure Machine Learningで自動機械学習を利用する方法をみていきます。
 
-- Create an Azure Machine Learning workspace
-- Create compute resources
-- Explore data 
-- Train a machine learning model 
-- Deploy a model as a service 
+1. https://docs.microsoft.com/learn/modules/use-automated-machine-learning/ のMicrosoft Learnモジュールにアクセスし、ブラウザで以下のユニットを完了してください。
 
+- Azure Machine Learningワークスペースの作成
+- コンピューティングリソースの作成
+- データの探索
+- 機械学習モデルのトレーニング
+- モデルをサービスとしてデプロイする

@@ -3,7 +3,9 @@ lab:
     title: 'Create a Classification Model with Azure Machine Learning designer'
 ---
 
-## Instructions
-In this lab we will look at how to create classification models using Azure Machine Learning designer.
+## インストラクション
 
-1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/
+このラボでは、Azure Machine Learningデザイナーを使って分類モデルを作成する方法を見ていきます。
+
+1. Microsoft Learnの以下のモジュールにアクセスしてください。
+   https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/

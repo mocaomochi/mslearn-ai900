@@ -3,7 +3,9 @@ lab:
     title: 'Create a Regression Model with Azure Machine Learning designer'
 ---
 
-## Instructions
-In this lab we will look at how to create regression models using Azure Machine Learning designer.
+## インストラクション
 
-1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/create-regression-model-azure-machine-learning-designer/
+このラボでは、Azure Machine Learningデザイナーを使用して回帰モデルを作成する方法をみていきます。
+
+1. Microsoft Learnの以下のモジュールにアクセスしてください。
+   https://docs.microsoft.com/learn/modules/create-regression-model-azure-machine-learning-designer/

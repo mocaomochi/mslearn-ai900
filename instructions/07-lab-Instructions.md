@@ -3,18 +3,17 @@ lab:
     title: 'Text Analytics'
 ---
 
-## Get latest files 
+## 最新のファイルを取得する
 
-1. First we will run a short program that pulls the latest version of the lab files. On the desktop, look for the file **GET_FILES** and double click on it. This will run a command. Once the command runs, the last line will say "Press any key to continue ...". You can close the panel.
+1. 最初に、ラボファイルの最新版を取得する短いプログラムを実行します。デスクトップ上で**GET_FILES**というファイルを探し、ダブルクリックします。これでコマンドが実行されます。コマンドが実行されると、最後の行に「Press any key to continue ...」と表示されます。その後パネルを閉じることができます。
 
-2.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar). 
-
+2. Visual Studio Codeを起動します（プログラムのアイコンは下部のタスクバーに固定されています）。
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
-3. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel. This file contains the labs for the course. 
+3. Visual Studio Codeを開くと、左側のパネルにMSLEARN-AI900プロジェクトが表示されているはずです。このファイルには、このコースのラボが含まれています。
 
-In this lab we will create an application that can understand language.
+このラボでは、言語を理解することができるアプリケーションを作成します。
 
--  Open the **07 - Text Analytics.ipynb** notebook in Visual Studio Code.
-    **Note:** You may be prompted about changes in Python. Go ahead and select **OK**.
--  Follow the instructions in the notebook to complete the lab.
+- Visual Studio Codeで **07 - Text Analytics.ipynb** ノートブックを開きます。
+**補足:** Pythonの変更に関するプロンプトが表示された場合は**OK**を選択して先に進んでください。
+- ノートのインストラクションにしたがって、ラボを完了してください。

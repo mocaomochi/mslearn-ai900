@@ -3,7 +3,9 @@ lab:
     title: 'Create a Clustering Model with Azure Machine Learning designer'
 ---
 
-## Instructions
-In this lab we will look at how to create clustering models using Azure Machine Learning designer.
+## インストラクション
 
-1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/
+このラボでは、Azure Machine Learningデザイナーを使ってクラスタリングモデルを作成する方法を見ていきます。
+
+1. Microsoft Learnの以下のモジュールにアクセスしてください。
+   https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/
